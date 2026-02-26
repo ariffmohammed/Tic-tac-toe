@@ -17,11 +17,13 @@ How to Play
 
 
 Features
+
 	∙	Two player mode
 	∙	Win detection for all rows, columns and diagonals
 	∙	Draw detection
 	∙	Play again option
 What I Learned
+
 	∙	Python lists and loops
 	∙	Conditionals and game logic
 	∙	Taking and validating user input
